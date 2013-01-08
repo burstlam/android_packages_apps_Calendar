@@ -190,7 +190,7 @@ public class CalendarViewAdapter extends BaseAdapter {
             
             Resources res = mContext.getResources();
             String strCountry = res.getConfiguration().locale.getCountry();
-            if(strCountry.equals("CN") || strCountry.equals("TW")){
+            if(strCountry.equals("CN")){
                 switch (mCurrentMainView) {
                 case ViewType.DAY:
                     weekDay.setVisibility(View.VISIBLE);
