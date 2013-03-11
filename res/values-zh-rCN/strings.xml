@@ -224,4 +224,12 @@
   </plurals>
     <string name="acessibility_selected_marker_description" msgid="3010149843148810768">"所选活动"</string>
     <string name="do_not_check" msgid="7815441673853466129">"请勿选中 -&gt;"</string>
+
+    <!-- Check box label for using custom snooze delays -->
+    <string name="preferences_alerts_custom_snooze_delay_title">贪睡延迟</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">永远弹出对话视窗，无视贪睡延迟值</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">使用默认贪睡延迟</string>
+    <string name="snooze_delay_dialog_title">设定贪睡延迟</string>
+    <string name="preferences_default_snooze_delay_title">设定默认贪睡延迟</string>
+    <string name="preferences_default_snooze_delay_dialog">默认贪睡延迟</string>
 </resources>
